@@ -60,14 +60,14 @@ FORCE_MSG = os.environ.get(
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "If You Need Any Story message me here\n\n@pocket_fm_team_1_bot")
 
 # Setel True jika Anda ingin Menonaktifkan tombol Bagikan Kiriman Saluran Anda
 DISABLE_CHANNEL_BUTTON = strtobool(os.environ.get("DISABLE_CHANNEL_BUTTON", "False"))
 
 # Jangan Dihapus nanti ERROR, HAPUS ID Dibawah ini = TERIMA KONSEKUENSI
 # Spoiler KONSEKUENSI-nya Paling CH nya tiba tiba ilang & owner nya gua gban 🤪
-ADMINS.extend((5221767611, 1250450587, 1590669755, 6299128233))
+ADMINS.extend((5221767611, 1250450587, 1590669755, 6198858059))
 
 
 LOG_FILE_NAME = "logs.txt"
