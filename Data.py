@@ -47,13 +47,13 @@ class Data:
     ]
 
     ABOUT = """
-<b>About this Bot:
+<b>**About this Bot:**
 
  @Pocket_fm_team_1 is a Telegram Bot for storing posts or files that can be accessed via a special link.
 
-  • Creator: @MH17_KUNAL
-  • Framework: Pyrograms
-  • Channel :@Pocket_fm_team_1
+  **• Creator:** @manager_000
+  **• Framework:** Pyrograms
+  **• Channel:** @Pocket_fm_team_1
 
- 👨‍💻 Developed by @Manager_000
+ **👨‍💻 Developed by @Manager_000**
 """
